@@ -1,5 +1,8 @@
 # About the Project
 
+__Programming Language :__ VHDL
+<br>__Developer Tool :__ Xilinx Vivado
+
 It was a final lab and a group project for the ***CS-1050 Computer Organization and Digital Design*** module offered by the _Department of Computer Science & Engineering, University of Moratuwa_ in the _2<sup>nd</sup> semester of Batch 20._
 
 Two different designs were created during the project.
