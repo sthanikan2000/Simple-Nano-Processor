@@ -10,18 +10,3 @@ Whole details about the project such as,
 <br>_6. Individual contributions of each group member_
 <br>_7. Component source codes, Test bench codes, Timing Diagram & Schematics_
 <br>       are included in [ ***Nano_Processor_Design_Competition_Final_Report.pdf***](https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Nano_Processor_Design_Competition_Final_Report.pdf)
-<dl>
-  <dt></dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>For the details about the project go through the [Nano_Processor_Design_Competition_Final_Report.pdf](https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Nano_Processor_Design_Competition_Final_Report.pdf)</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-* Main Topic
-    * Subtopic1
-
-        Some Points for subtopic1
-
-    * Subtopic2
-
-        Some Points for subtopic2
