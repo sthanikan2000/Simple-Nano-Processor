@@ -1,7 +1,7 @@
 # _Simple-Nano-Processor_
 
 ## Project Description
-__Programming Language :__ VHDL
+>__Programming Language :__ VHDL
 <br>__Developer Tool :__ Xilinx Vivado
 
 It was a <a href="https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Lab_Description.pdf">final lab</a> and a group project for the ***CS-1050 Computer Organization and Digital Design*** module offered by the _Department of Computer Science & Engineering, University of Moratuwa_ in the _2<sup>nd</sup> semester of Batch 20._
@@ -23,5 +23,12 @@ Whole details about the project such as,
 <br> Bit stream files which are included in [_BitStream_Files.rar_](https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/BitStream_Files.rar)
 can be tested on a BASYS3 FPGA Board with the help of ***Section-04 : Specific Instructions for operating the machine*** of [_Nano_Processor_Design_Competition_Final_Report.pdf_](https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Nano_Processor_Design_Competition_Final_Report.pdf)
 
-
+## Group Members
+<ul>
+  <li>Thanikan S.</li>
+  <li>Jathushan R.</li>
+  <li>Thenujan N.</li>
+  <li>Sangaran T.</li>
+  <li>Thivaharan K.</li>
+</ul>
 
