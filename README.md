@@ -25,10 +25,12 @@ can be tested on a BASYS3 FPGA Board with the help of ***Section-04 : Specific I
 
 ## Group Members
 <ul>
-  <li>Thanikan S.</li>
+  <li><a href="https://github.com/sthanikan2000">Thanikan S.</a></li>
   <li>Jathushan R.</li>
   <li>Thenujan N.</li>
   <li>Sangaran T.</li>
   <li>Thivaharan K.</li>
 </ul>
+
+
 
