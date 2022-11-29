@@ -4,7 +4,7 @@
 __Programming Language :__ VHDL
 <br>__Developer Tool :__ Xilinx Vivado
 
-It was a <a herf="https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Lab_Description.pdf">final lab</a> and a group project for the ***CS-1050 Computer Organization and Digital Design*** module offered by the _Department of Computer Science & Engineering, University of Moratuwa_ in the _2<sup>nd</sup> semester of Batch 20._
+It was a <a href="https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Lab_Description.pdf">final lab</a> and a group project for the ***CS-1050 Computer Organization and Digital Design*** module offered by the _Department of Computer Science & Engineering, University of Moratuwa_ in the _2<sup>nd</sup> semester of Batch 20._
 
 Two different designs were created during the project.
 <br>[_Optimized Design_](https://github.com/sthanikan2000/Simple-Nano-Processor/blob/main/Optimized_Design_Source_Files.rar) : Design that only satisfies the functional requirements of the lab.
