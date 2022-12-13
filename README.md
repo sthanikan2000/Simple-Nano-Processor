@@ -26,10 +26,10 @@ can be tested on a BASYS3 FPGA Board with the help of ***Section-04 : Specific I
 ## Group Members
 <ul>
   <li><a href="https://github.com/sthanikan2000">Thanikan S.</a></li>
-  <li>Jathushan R.</li>
-  <li>Thenujan N.</li>
-  <li>Sangaran T.</li>
-  <li>Thivaharan K.</li>
+  <li><a href="https://github.com/jathushan-r">Jathushan R.</a></li>
+  <li><a href="https://github.com/Thenujan-Nagaratnam">Thenujan N.</a></li>
+  <li><a href="https://github.com/TJSangaran">Sangaran T.</a></li>
+  <li><a href="https://github.com/thiva-k">Thivaharan K.</a></li>
 </ul>
 
 
