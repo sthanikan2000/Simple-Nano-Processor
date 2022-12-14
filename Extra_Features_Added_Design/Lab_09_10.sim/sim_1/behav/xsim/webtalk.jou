@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Aug 17 13:42:23 2022
+# Process ID: 6604
+# Current directory: S:/E20_Semester_02/CS1050-Computer Organization and Digital Design/Lab/Lab_09_10_Sim_DualROM/Lab_09_10/Lab_09_10.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source S:/E20_Semester_02/CS1050-Computer Organization and Digital Design/Lab/Lab_09_10_Sim_DualROM/Lab_09_10/Lab_09_10.sim/sim_1/behav/xsim/xsim.dir/TB_Nano_Processor_with_7SegOut_1_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: S:/E20_Semester_02/CS1050-Computer Organization and Digital Design/Lab/Lab_09_10_Sim_DualROM/Lab_09_10/Lab_09_10.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: S:/E20_Semester_02/CS1050-Computer Organization and Digital Design/Lab/Lab_09_10_Sim_DualROM/Lab_09_10/Lab_09_10.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source S:/E20_Semester_02/CS1050-Computer -notrace
