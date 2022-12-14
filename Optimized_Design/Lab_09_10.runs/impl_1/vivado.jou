@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Aug 17 20:02:12 2022
+# Process ID: 504
+# Current directory: D:/digi/Lab_09_10_Sim/Lab_09_10/Lab_09_10.runs/impl_1
+# Command line: vivado.exe -log Out_controll_7seg.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Out_controll_7seg.tcl -notrace
+# Log file: D:/digi/Lab_09_10_Sim/Lab_09_10/Lab_09_10.runs/impl_1/Out_controll_7seg.vdi
+# Journal file: D:/digi/Lab_09_10_Sim/Lab_09_10/Lab_09_10.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Out_controll_7seg.tcl -notrace
